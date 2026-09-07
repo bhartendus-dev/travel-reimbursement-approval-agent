@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "max_amount": 10000,
+      "approval_level": "STANDARD",
+      "manual_review_required": false
+    },
+    {
+      "min_amount": 10000.01,
+      "max_amount": 25000,
+      "approval_level": "MANAGER",
+      "manual_review_required": false
+    },
+    {
+      "min_amount": 25000.01,
+      "approval_level": "FINANCE",
+      "manual_review_required": true
+    }
+  ]
+}

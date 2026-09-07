@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+typing-extensions
+langgraph
+langchain
+langchain-openai
+python-dotenv
+pytest

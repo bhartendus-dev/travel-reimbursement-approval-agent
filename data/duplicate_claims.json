@@ -1,0 +1,9 @@
+[
+  {
+    "claim_id": "CLM-HIST-9001",
+    "employee_id": "EMP-999",
+    "category": "HOTEL",
+    "claimed_amount": 5000,
+    "expense_date": "2026-08-10"
+  }
+]

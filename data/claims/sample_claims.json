@@ -1,0 +1,66 @@
+[
+  {
+    "claim_id": "CLM-1001",
+    "employee_id": "EMP-101",
+    "travel_type": "DOMESTIC",
+    "expense": {
+      "category": "TAXI",
+      "claimed_amount": 800,
+      "currency": "INR",
+      "expense_date": "2026-08-20",
+      "description": "Airport taxi to client hotel"
+    },
+    "receipt": {
+      "available": true,
+      "file_reference": "taxi_1001.pdf"
+    }
+  },
+  {
+    "claim_id": "CLM-1002",
+    "employee_id": "EMP-102",
+    "travel_type": "DOMESTIC",
+    "expense": {
+      "category": "HOTEL",
+      "claimed_amount": 6200,
+      "currency": "INR",
+      "expense_date": "2026-08-20",
+      "description": "One night hotel stay for client visit"
+    },
+    "receipt": {
+      "available": true,
+      "file_reference": "hotel_1002.pdf"
+    }
+  },
+  {
+    "claim_id": "CLM-1003",
+    "employee_id": "EMP-103",
+    "travel_type": "DOMESTIC",
+    "expense": {
+      "category": "OTHER",
+      "claimed_amount": 2000,
+      "currency": "INR",
+      "expense_date": "2026-08-21",
+      "description": "Personal entertainment"
+    },
+    "receipt": {
+      "available": true,
+      "file_reference": "other_1003.pdf"
+    }
+  },
+  {
+    "claim_id": "CLM-1004",
+    "employee_id": "EMP-104",
+    "travel_type": "DOMESTIC",
+    "expense": {
+      "category": "FLIGHT",
+      "claimed_amount": 12000,
+      "currency": "INR",
+      "expense_date": "2026-08-22",
+      "description": "Domestic economy flight"
+    },
+    "receipt": {
+      "available": false,
+      "file_reference": null
+    }
+  }
+]
